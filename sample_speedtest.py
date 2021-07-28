@@ -17,7 +17,7 @@ def new_randsearch():
 				print(i)
 	print(count)
 
-#runtime ~ 28.4 seconds	
+#runtime ~ 28.4 seconds
 def classic_randsearch():
 	with open('randlist.txt','r') as g:
 
